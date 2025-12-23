@@ -1,6 +1,4 @@
-h2{
-    text-align: center;
-}
+
 .container{
     /* border: 2px solid red; */
     /* height: 600px; */
@@ -12,8 +10,7 @@ h2{
     /* border:2px solid green; */
     width: 300px;
     /* height: 500px; */
-    margin-right: 5px;
-
+   
 
 }
 .child2{
@@ -37,7 +34,11 @@ h2{
     /* height: 500px; */
 
 }
-h3,p{
+.child{
+     margin-right: 5px;
+
+}
+h2,h3,p{
     text-align: center;
 
 }
